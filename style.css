@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.one, .two, .three{
+    width: 400px;
+}
+
+.one{
+    background-color: blue;
+    flex-basis: 100%;
+}
+
+.two{
+    background-color: black;
+
+}
+
+.three{
+    background-color: blueviolet;
+}
