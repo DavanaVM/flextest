@@ -73,4 +73,42 @@ button{
     font-size: 18px;
     width: 100px;
     height: 30px;
+    margin-bottom: 20px;
 }
+
+.information{
+    color:black;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.break{
+    height: 0px;
+    flex-basis: 100%;
+}
+
+.infotext{
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.rsquare{
+    border-color: #3882F6;
+    width: 160px;
+    height: 160px;
+    border-style:solid;
+    border-radius: 16px;
+    border-width: 4px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.squaretext{
+    margin-right: 25px;
+    margin-left: 25px;
+    width: 170px;
+    text-align: center;
+}
+
+
